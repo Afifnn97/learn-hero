@@ -60,3 +60,18 @@ a {
 .section-text h5 {
   color: #4a4a4a;
 }
+
+.counter li {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: start;
+  padding: 0 60px 0 0;
+}
+
+.counter li span {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: #4a4a4a;
+}
