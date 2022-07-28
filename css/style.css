@@ -17,6 +17,9 @@ h6 {
 li {
   list-style: none;
 }
+a {
+  text-decoration: none;
+}
 /* ============   Template Default end   ============ */
 
 /* ===== navbar start ===== */
@@ -53,3 +56,7 @@ li {
 }
 /* ===== slider end===== */
 /* ====popular courses start=== */
+
+.section-text h5 {
+  color: #4a4a4a;
+}
