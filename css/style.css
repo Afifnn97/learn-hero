@@ -24,3 +24,32 @@ li {
   margin-left: 55px;
 }
 /* ===== navbar end ===== */
+/* ===== slider start===== */
+.carousel-item::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.6;
+}
+.carousel-caption {
+  bottom: 180px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.carousel-caption h1 {
+  font-size: 48px;
+}
+.carousel-caption p {
+  font-size: 12px;
+  font-weight: 400;
+}
+.carousel-caption button {
+  text-transform: capitalize;
+}
+/* ===== slider end===== */
+/* ====popular courses start=== */
