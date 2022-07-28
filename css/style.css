@@ -75,3 +75,38 @@ a {
   font-weight: 600;
   color: #4a4a4a;
 }
+/* ====popular courses end=== */
+
+/* === succesfull student start==== */
+.card-body a {
+  text-align: start;
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+  color: #4a4a4a;
+}
+.card-body span {
+  color: #777777;
+}
+/* === succesfull student end==== */
+
+/* === feedback  start==== */
+.icons ul li {
+  display: inline-block;
+  color: #fbbf24;
+}
+.review img {
+  height: 42px;
+  width: 42px;
+}
+.review-text a {
+  display: block;
+}
+
+/* === feedback  end==== */
+
+/* ==Frequently start== */
+.questions {
+  max-width: 800px;
+}
+/* ==Frequently start== */
