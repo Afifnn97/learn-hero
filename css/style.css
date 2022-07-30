@@ -110,3 +110,23 @@ a {
   max-width: 800px;
 }
 /* ==Frequently start== */
+/* footer-start */
+footer{
+  color: #ddd;
+  background-color: #161616;
+}
+.icon ul li{
+  list-style: none;
+  display: inline-block;
+  font-size: 30px;
+  letter-spacing: 14px;
+  
+}
+.icon ul li a{
+  color: #777777;
+}
+.icon ul li a:hover{
+  color: #DC3545;
+  transition: 0.3s;
+}
+/* footer-end */
